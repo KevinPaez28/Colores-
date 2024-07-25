@@ -1,0 +1,57 @@
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing: border-box;
+}
+
+.header{
+  padding: 45px 0px;
+  color: rgb(200,100,100);
+  background: #000;
+  background-color: blue;
+}
+.title{
+    text-align: center;
+
+}
+main > section#section>div>div.img , 
+main > section#section>div>div#img,
+section.section{
+  background-size: cover;
+  background-image: linear-gradient(#ff9a9d4f 0%, #fad0c460 99%, #fad0c450 100%),url(Imagen.jpg);
+}
+.attachment{
+background-attachment: fixed;
+}
+.img, div#img{
+  height: 350px;
+  width: 350px;
+  display:inline-block;
+  
+}
+
+.contenedor{
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+section.section{
+ height: 250px;
+
+
+}
+.titl{
+  font-size: 40px ;
+  margin-top: 150px ;
+  color:white;
+
+}
+
+p{
+ color:white;
+
+
+}
+main{
+  height: 3000px ;
+}
